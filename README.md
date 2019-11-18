@@ -1,2 +1,3 @@
 # szgmgyak
-első repom
+elso repom
+ebbe megy a crack
