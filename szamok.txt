@@ -3,7 +3,8 @@
 981
 6198498
 00
-ldflfdékifg
 68498
 8649198
 8464
+6489
+ez egy commit lesz
